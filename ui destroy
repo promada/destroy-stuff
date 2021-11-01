@@ -1,5 +1,4 @@
-game.Players.LocalPlayer.PlayerGui.UI.Ui.Info.ServerInfo:Destroy()
-game.Players.LocalPlayer.PlayerGui.UI.Ui.Info.ServerInfo2:Destroy()
 game.Players.LocalPlayer.Character.Head.HealthBar.Frame.StaminaBar:Destroy()
-game.Players.LocalPlayer.PlayerGui.UI.Ui.StaminaBar.Bar:Destroy()
-game.Players.LocalPlayer.PlayerGui.UI.Ui.ManaBar.Bar:Destroy()
+game.Players.LocalPlayer.PlayerGui.UI:Destroy()
+game.Players.LocalPlayer.PlayerGui.CharaIndicator:Destroy()
+game.Players.LocalPlayer.PlayerGui.Moves1:Destroy()
