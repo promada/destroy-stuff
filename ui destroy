@@ -1,4 +1,0 @@
-game.Players.LocalPlayer.Character.Head.HealthBar.Frame.StaminaBar:Destroy()
-game.Players.LocalPlayer.PlayerGui.UI:Destroy()
-game.Players.LocalPlayer.PlayerGui.CharaIndicator:Destroy()
-game.Players.LocalPlayer.PlayerGui.Moves1:Destroy()
