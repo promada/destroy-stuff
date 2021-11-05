@@ -1,0 +1,3 @@
+local plr = game.Players.LocalPlayer.Character
+plr.GTFriskShield:Remove()
+plr.GTFriskSword:Remove()
